@@ -46263,7 +46263,7 @@ o=A.cN(32)
 if(r==null)n=g
 else n=r===B.oH?"Format email tidak sesuai":"Email tidak boleh kosong"
 m=this.a
-n=A.An(B.i,n,m.d,g,"ID Recruiter",new A.aqB(a),!1,"masukkan 8 digit ID Recruiter",!1,B.nm,g,g)
+n=A.An(B.i,n,m.d,g,"Email",new A.aqB(a),!1,"Masukkan Email",!1,B.nm,g,g)
 l=A.cN(16)
 k=m.r
 if(q==null)j=g
